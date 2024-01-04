@@ -6,7 +6,7 @@
 - [掘金：程序员米七](https://juejin.im/user/5a2de8a8f265da4320032fc4/posts/)
 - [知乎：程序员米七](https://www.zhihu.com/people/huo-yi-tong-98/)
 - [Twitter](https://twitter.com/mi7coder)
-- [关于我](https://mi7.net/about/)
+- [关于我](https://mi7.net/about/){:target="_blank"}
 
 专注AI、全栈开发、个人成长分享~
 
