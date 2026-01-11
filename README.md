@@ -8,4 +8,4 @@
 - [Twitter](https://twitter.com/mi7coder)
 - [关于我](https://mi7.net/about/)
 
-AI、研发、团队管理、个人成长分享~
+AI、技术、管理、个人成长分享~
