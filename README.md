@@ -8,4 +8,4 @@
 - [Twitter](https://twitter.com/mi7coder)
 - [关于我](https://mi7.net/about/)
 
-专注AI、全栈开发、个人成长分享~
+AI、研发、团队管理、个人成长分享~
